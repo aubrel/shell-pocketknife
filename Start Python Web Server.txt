@@ -1,5 +1,0 @@
-python[VERSION] -m http.server 8090
-
-Example:
-`python3.5 -m http.server 8090`
-
